@@ -13,30 +13,22 @@
 			<div class="news-header news-article" data-type="header" style="padding-bottom: 10px; margin: 0px 0px 10px; padding-left: 10px; padding-right: 10px; background: #fff; padding-top: 10px">
 			<h3 class="news-title" style="margin: 0.5em 0px; font-size: 16px; text-align: justify;">&nbsp;</h3>
 
-			<p>親愛的好友，您好</p>
+			<p><span style="font-family:微軟正黑體;">親愛的貴賓，您好</span></p>
 
-			<p>首先向您問安 ~</p>
+<p><span style="font-family:微軟正黑體;">誠摯期待您參加9月3日 Taiwan Connection音樂會《復刻．經典──莫札特 Vs 德弗札克》。敬請於演出前至國家音樂廳G樓【貴賓取票服務台】取票入場。</span></p>
 
-			<p>Taiwan Connection 在胡乃元老師的帶領下，在過去十餘年來，每一年邀請眾多海內華裔音樂家回到台灣與在地傑出音樂家一起演繹動人的樂章，也走進偏鄉，透過示範講座、大師班授課與室內樂演出，讓音樂走入各地學校與社團。</p>
+<p style="margin-left:24.0pt;"><strong><span style="font-family:微軟正黑體;">演出暨取票資訊&mdash;</span></strong></p>
 
-			<p>2014年乃元宣布讓 TC 暫時休息，雖然這兩年大家看不到 TC 的蹤影，聽不見 TC 的聲音，那是因為 TC 正在為下一個階段做準備，以儲備更飽足的沛能。經過兩年的審慎思考，有意識停下腳步的 TC 終於在今年宣布復出，除了演出之外，還有更多將音樂深入世界各個角落的實際計畫。</p>
+<p style="margin-left:24.0pt;"><span style="font-family:微軟正黑體;">日期｜2017年9月3日(日) 19:30（18:30開放取票服務，19:00開放入場）</span></p>
 
-			<p>復出的 TC 將於 8 月 23 日(三) 及 9 月 3 日(日) 分別在臺中國家歌劇院大劇院及國家音樂廳演出，以《復刻‧經典──莫札特 Vs 德弗札克》為題，胡乃元將帶領 TC 詮釋不同樣貌的莫札特與德弗札克。誠摯地邀請喜愛 TC 音樂的您一起參與 TC 今年的演出。</p>
+<p style="margin-left:24.0pt;"><span style="font-family:微軟正黑體;">地點｜國家音樂廳<br />
+　　　*貴賓取票服務台位於G樓1號門（信義路側），面對售票服務台左側</span></p>
 
-			<p>&nbsp;</p>
+<p style="margin-left:24.0pt;"><span style="font-family:微軟正黑體;"></span></p>
 
-			<p style="margin-left:30.0pt;"><strong>2017 Taiwan Connection《復刻‧經典──莫札特 Vs 德弗札克》</strong></p>
+<p align="right" style="margin-left:24.0pt;"><span style="font-family:微軟正黑體;">TC籌備團隊敬上</span></p>
 
-			<p style="text-align: left; margin-left: 40px;">演出場次｜<br />
-			■ 9/03(日) 19:30 國家音樂廳&nbsp;</p>
-
-			<p style="text-align: left; margin-left: 40px;">&gt;&gt;&nbsp;<a href="https://goo.gl/forms/mFJVGV0YUTGP5oHH3">出席回覆R.S.V.P.</a>&nbsp;</p>
-
-			<p style="text-align: left;">&nbsp;</p>
-
-			<p style="text-align: right;">嚴長壽　敬邀</p>
-
-			<p style="text-align: right;">&nbsp;</p>
+<p align="right"><span style="font-family:微軟正黑體;">聯絡人：陳昱樺 / 0978-292-218</span></p>
 
 			<p style="text-align: center;"><span style="font-size:10px;"><strong>Taiwan Connection　．　<a href="http://www.tc-chambermusic.org">Official Website</a>&nbsp;　|</strong>　<strong><a href="https://www.facebook.com/TaiwanConnection/">Facebook</a>&nbsp;</strong>&nbsp;</span></p>
 			</div>
