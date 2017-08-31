@@ -15,7 +15,6 @@
 
 			<p><span style="font-family:微軟正黑體;">親愛的貴賓，您好</span></p>
 
-			<p>&nbsp;</p>
 
 			<p><span style="font-family:微軟正黑體;">誠摯期待您參加9月3日 Taiwan Connection音樂會《復刻．經典──莫札特 Vs 德弗札克》。敬請於演出前至國家音樂廳G樓【貴賓取票服務台】取票入場。</span></p>
 
