@@ -15,20 +15,25 @@
 
 			<p><span style="font-family:微軟正黑體;">親愛的貴賓，您好</span></p>
 
-<p><span style="font-family:微軟正黑體;">誠摯期待您參加9月3日 Taiwan Connection音樂會《復刻．經典──莫札特 Vs 德弗札克》。敬請於演出前至國家音樂廳G樓【貴賓取票服務台】取票入場。</span></p>
+			<p>&nbsp;</p>
 
-<p style="margin-left:24.0pt;"><strong><span style="font-family:微軟正黑體;">演出暨取票資訊&mdash;</span></strong></p>
+			<p><span style="font-family:微軟正黑體;">誠摯期待您參加9月3日 Taiwan Connection音樂會《復刻．經典──莫札特 Vs 德弗札克》。敬請於演出前至國家音樂廳G樓【貴賓取票服務台】取票入場。</span></p>
 
-<p style="margin-left:24.0pt;"><span style="font-family:微軟正黑體;">日期｜2017年9月3日(日) 19:30（18:30開放取票服務，19:00開放入場）</span></p>
+			<p style="margin-left:24.0pt;"><span style="font-family:微軟正黑體;">演出暨取票資訊&mdash;</span><br />
+			<span style="font-family:微軟正黑體;">日期｜2017年9月3日(日) 19:30（18:30開放取票服務，19:00開放入場）</span><span style="font-family:微軟正黑體;"><br />
+			地點｜國家音樂廳<br />
+			　　　*貴賓取票服務台位於G樓1號門（信義路側），面對售票服務台左側</span></p>
 
-<p style="margin-left:24.0pt;"><span style="font-family:微軟正黑體;">地點｜國家音樂廳<br />
-　　　*貴賓取票服務台位於G樓1號門（信義路側），面對售票服務台左側</span></p>
+			<p style="margin-left:24.0pt;">&nbsp;</p>
 
-<p style="margin-left:24.0pt;"><span style="font-family:微軟正黑體;"></span></p>
+			<p style="margin-left:24.0pt;"><span style="font-family:微軟正黑體;"></span></p>
 
-<p align="right" style="margin-left:24.0pt;"><span style="font-family:微軟正黑體;">TC籌備團隊敬上</span></p>
+			<p align="right" style="margin-left:24.0pt;"><span style="font-family:微軟正黑體;">TC籌備團隊敬上</span><br />
+			<span style="font-family:微軟正黑體;">聯絡人：陳昱樺 / 0978-292-218</span></p>
 
-<p align="right"><span style="font-family:微軟正黑體;">聯絡人：陳昱樺 / 0978-292-218</span></p>
+			<p align="right" style="margin-left:24.0pt;">&nbsp;</p>
+
+			<p align="right">&nbsp;</p>
 
 			<p style="text-align: center;"><span style="font-size:10px;"><strong>Taiwan Connection　．　<a href="http://www.tc-chambermusic.org">Official Website</a>&nbsp;　|</strong>　<strong><a href="https://www.facebook.com/TaiwanConnection/">Facebook</a>&nbsp;</strong>&nbsp;</span></p>
 			</div>
